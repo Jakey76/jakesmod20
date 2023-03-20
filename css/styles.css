@@ -1,0 +1,83 @@
+head {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: black;
+    
+}
+.navbar-brand img {
+    padding-right: 10px;
+}
+
+.navbar {
+    color: #BB5A00;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.navbar-brand {
+    color: #BB5A00;
+    font-size: 36px;
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  .nav-item1 {
+    margin: 0px 15px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .nav-item2 {
+    margin: 0px 15px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .nav-link2 {
+    color: #BB5A00;
+  }
+  .nav-link1 {
+    color: #1f03c0;
+  }
+  .container {
+    display: inline-flex;
+    padding-left: 10%;
+}
+.jumbotron img {
+    height: 300px;
+}
+.conchild1 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10%;
+    text-align: center;
+}
+.card {
+    color: #BB5A00;
+    text-align: center;
+    background-color: black;
+    padding-top: 25px;
+    border-style: solid 3px;
+    height: auto;
+    font-size: small;
+}
+.card-body {
+    border-style: solid;
+    border-color: #BB5A00;
+    border-radius: 0px 0px 12px 12px;
+}
+.btn {
+    background-color: #1f03c0;
+    border-color: #BB5A00;
+}
+.card-img-top {
+    height: 400px;
+    width: auto;
+}
+.cardContainer {
+    padding: 35px;
+    width: 500px;
+}
